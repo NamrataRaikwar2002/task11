@@ -4,6 +4,7 @@ body{
     font-family: 'Gwendolyn', cursive;
     font-family: 'Oswald', sans-serif;
     letter-spacing: 2px;
+    background-color: #A78BFA;
 }
 :root{
     --primary-color:blueviolet;
@@ -13,9 +14,7 @@ body{
 .box1{
     text-align: center;
     padding: 2rem;
-    border: 4px solid var(--primary-color);
     font-size: large;
-    background-color: #A78BFA;
     margin-left: 18rem;
     margin-right: 18rem;
     margin-bottom: 9rem;
